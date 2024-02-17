@@ -1,4 +1,4 @@
-# Telecom-Data-Analysis
+# Telecom-Data-Analysis (Python)
 In this project, I performed a comprehensive analysis of data from a telecommunications company to gain insights into customer churn behavior. The project follows a structured approach involving various phases including data collection, preparation, processing, analysis, and visualization. The aim is to extract meaningful insights that can aid in making data-driven decisions to reduce churn and improve customer retention.
 # Ask
 Some of the questions we aim to answer in this project include:
