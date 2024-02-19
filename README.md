@@ -21,3 +21,9 @@ Some of the questions we aim to answer in this project include:
 - Non-senior citizens tend to have higher churn rates compared to senior citizens.
 - Customers using electronic check as a payment method have the highest churn rates.
 - Churn tends to be higher when monthly charges are high, particularly when combined with lower tenure and total charges.
+
+# Tangible Impact on Business:
+- Implemented comprehensive analysis of telecom data to uncover factors contributing to customer churn, aiding in data-driven decision-making.
+- Identified patterns such as higher churn in month-to-month contracts, absence of online security/tech support, and with certain payment methods.
+- Highlighted opportunities to improve customer retention, such as enhancing service offerings and targeting specific customer segments.
+- Provided actionable insights to reduce churn, potentially resulting in increased customer satisfaction and long-term revenue growth.
